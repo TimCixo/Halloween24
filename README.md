@@ -4,7 +4,7 @@ A Unity project with some sprites of ghosts and candies.
 
 ## Screenshots
 
-![Screenshot](https://raw.githubusercontent.com/alexeychernenko/unity-ghosts-and-candies/master/Screenshot.png)
+![Screenshot](https://github.com/user-attachments/assets/22d38c28-38a7-467b-9bac-a9fde3ab5be9)
 
 ## How to use
 
@@ -26,6 +26,6 @@ The prompt for candy sprites was `minimalistic cartoon [color] candy`.
 
 I don't know why - it's impossible to get rid of their faces.
 
-### Code
+## Code
 
 Movement works. Spawner is not the best but still works. Player... I don't want to talk about it.
